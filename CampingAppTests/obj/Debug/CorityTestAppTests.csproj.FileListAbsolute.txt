@@ -1,0 +1,11 @@
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CorityTestAppTests.dll
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CorityTestAppTests.pdb
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CorityTestApp.exe
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CorityTestApp.pdb
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CorityTestApp.exe.config
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CorityTestAppTests.csprojAssemblyReference.cache
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CorityTestAppTests.csproj.CoreCompileInputs.cache
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CorityTestAppTests.csproj.CopyComplete
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CorityTestAppTests.dll
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CorityTestAppTests.pdb

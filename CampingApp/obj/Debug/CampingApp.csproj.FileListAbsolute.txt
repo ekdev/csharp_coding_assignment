@@ -1,0 +1,6 @@
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\bin\Debug\CampingApp.exe.config
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\bin\Debug\CampingApp.exe
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\bin\Debug\CampingApp.pdb
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\obj\Debug\CampingApp.csproj.CoreCompileInputs.cache
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\obj\Debug\CampingApp.exe
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\obj\Debug\CampingApp.pdb

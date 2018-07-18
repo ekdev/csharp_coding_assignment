@@ -1,0 +1,11 @@
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CampingAppTests.dll
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CampingAppTests.pdb
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CampingApp.exe
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CampingApp.pdb
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\bin\Debug\CampingApp.exe.config
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CampingAppTests.csprojAssemblyReference.cache
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CampingAppTests.csproj.CoreCompileInputs.cache
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CampingAppTests.csproj.CopyComplete
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CampingAppTests.dll
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestAppTests\obj\Debug\CampingAppTests.pdb

@@ -1,0 +1,7 @@
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\bin\Debug\CorityTestApp.exe.config
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\bin\Debug\CorityTestApp.exe
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\bin\Debug\CorityTestApp.pdb
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\obj\Debug\CorityTestApp.csprojAssemblyReference.cache
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\obj\Debug\CorityTestApp.csproj.CoreCompileInputs.cache
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\obj\Debug\CorityTestApp.exe
+F:\DevProjects\CodingQuestions\CorityTestApp\CorityTestApp\obj\Debug\CorityTestApp.pdb
