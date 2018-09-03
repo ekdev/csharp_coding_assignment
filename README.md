@@ -1,7 +1,5 @@
 # csharp_coding_assignment
 
-This is a c# coding assignment given to me from a recruiter at a company I've applied.
-
 Problem: Splitting the Bill
 
 A number of friends go camping every year at provincial parks.
